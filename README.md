@@ -4,7 +4,7 @@
 
 <h3 align="center">Desafio 5: Fundamentos do NodeJS</h3>
 
-<p align="center">Essa aplicação armazena repositórios do seu portfólio, permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permite que os repositórios possam receber "likes".</p>
+<p align="center">Essa aplicação armazena transações financeiras de entrada e saída, e permite o cadastro e a listagem dessas transações.</p>
 
 ## 🚀 Tecnologias
 
